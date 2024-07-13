@@ -1,0 +1,36 @@
+/* Button.module.css */
+.button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 10px;
+    height: 54px;
+    
+    
+    
+  }
+  
+  .primary {
+    background-color: #040404;
+    color: #2271D1;
+    border: 2px solid #2271D1;
+    box-shadow: 0 0 10px rgba(0, 0, 255, 0.5); /* Efeito de brilho */
+    width: 154px;
+    
+  }
+  
+  .secondary {
+    background-color: #262626;
+    color:  white;
+    border-color: white;
+    border: 1px solid white;
+    width: 154px;
+    
+    
+  }
+  
+  .tertiary {
+   
+  }
+  

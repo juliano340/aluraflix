@@ -1,0 +1,20 @@
+.header {
+    
+    display: flex;
+    width: auto;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+    background-color: #262626;
+    height: 100px;
+  
+}
+
+.buttonsDiv {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    
+    min-width: 400px;
+}
