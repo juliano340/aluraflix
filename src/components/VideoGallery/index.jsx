@@ -31,6 +31,16 @@ const VideoGallery = () => {
     }
   };
 
+  const handleSave = async (updatedVideo) => {
+    try {
+      await axios.put(`http://localhost:3001/videos/${updatedVideo.id}`, updatedVideo);
+      setVideos(videos.map(video => video.id === updatedVideo.id ? updatedVideo : video));
+    } catch (error) {
+      console.error('Erro ao salvar o vídeo:', error);
+      alert('Erro ao salvar o vídeo.');
+    }
+  };
+
   const categorizedVideos = categories.map(category => ({
     category,
     videos: videos.filter(video => video.category === category).slice(0, 3), // Limita a 3 vídeos por categoria
@@ -39,7 +49,7 @@ const VideoGallery = () => {
   return (
     <div className={styles.gallery}>
       {categorizedVideos.map(({ category, videos }) => (
-        <CategorySection key={category} category={category} videos={videos} onDelete={handleDelete} />
+        <CategorySection key={category} category={category} videos={videos} onDelete={handleDelete} onSave={handleSave} />
       ))}
     </div>
   );

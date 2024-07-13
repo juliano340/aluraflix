@@ -1,60 +1,12 @@
 {
   "videos": [
     {
-      "id": 1,
-      "title": "O que faz um desenvolvedor front-end",
-      "category": "Frontend",
-      "image": "https://via.placeholder.com/300x150",
-      "video": "https://www.youtube.com/watch?v=video1",
-      "description": "Descrição do vídeo 1"
-    },
-    {
-      "id": 2,
-      "title": "Implementando UX no Front-end",
-      "category": "Frontend",
-      "image": "https://via.placeholder.com/300x150",
-      "video": "https://www.youtube.com/watch?v=video2",
-      "description": "Descrição do vídeo 2"
-    },
-    {
-      "id": 3,
-      "title": "O que estudar para ser backend developer?",
-      "category": "Backend",
-      "image": "https://via.placeholder.com/300x150",
-      "video": "https://www.youtube.com/watch?v=video3",
-      "description": "Descrição do vídeo 3"
-    },
-    {
-      "id": 4,
-      "title": "Github CLI - Uma nova experiência no Github",
-      "category": "Backend",
-      "image": "https://via.placeholder.com/300x150",
-      "video": "https://www.youtube.com/watch?v=video4",
-      "description": "Descrição do vídeo 4"
-    },
-    {
-      "id": 5,
-      "title": "Desenvolvimento Android",
-      "category": "Mobile",
-      "image": "https://via.placeholder.com/300x150",
-      "video": "https://www.youtube.com/watch?v=video5",
-      "description": "Descrição do vídeo 5"
-    },
-    {
-      "id": 6,
-      "title": "O novo React Native",
-      "category": "Mobile",
-      "image": "https://via.placeholder.com/300x150",
-      "video": "https://www.youtube.com/watch?v=video6",
-      "description": "Descrição do vídeo 6"
-    },
-    {
-      "id": "72c4",
+      "id": "ca65",
       "title": "TESTE",
-      "category": "Categoria 1",
-      "image": "teste",
-      "video": "testa",
-      "description": "adad"
+      "category": "Mobile",
+      "image": "https://i.ytimg.com/vi/H8iwEv1LrNk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEi4jHdcxXirkE1BybHPFlVIxhpg",
+      "video": "https://www.youtube.com/watch?v=H8iwEv1LrNk&ab_channel=HealingFrequencyforSoul",
+      "description": "Minha descrição teste 2"
     }
   ]
 }

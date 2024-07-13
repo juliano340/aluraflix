@@ -4,5 +4,6 @@ export const categories = [
     'Backend',
     'Mobile',
     'Inovação e Gestão'
+    
   ];
   
