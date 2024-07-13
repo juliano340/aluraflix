@@ -1,5 +1,5 @@
+/* Header.module.css */
 .header {
-    
     display: flex;
     width: auto;
     align-items: center;
@@ -7,7 +7,13 @@
     padding: 50px;
     background-color: #262626;
     height: 100px;
-  
+    border-bottom: 4px solid #2271D1;
+    box-shadow: 0 0 10px rgba(34, 113, 209, 0.5); /* Efeito de brilho */
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.header:hover {
+    box-shadow: 0 0 20px rgba(34, 113, 209, 1); /* Aumenta o efeito de brilho ao passar o mouse */
 }
 
 .buttonsDiv {
@@ -15,6 +21,9 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    
     min-width: 400px;
+}
+
+.titleImage {
+    height: 40px; /* Ajuste conforme necessário */
 }
