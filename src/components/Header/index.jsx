@@ -12,7 +12,7 @@ function Header({ children }) {
       <img src={titleImage} alt="Title" className={styles.titleImage} />
       <div className={styles.buttonsDiv}>
         <Button label="HOME" styleType="primary" onClick={() => { window.location.href = "/" }}  />
-        <Button label="NOVO VÍDEO" styleType="secondary" />
+        <Button label="NOVO VÍDEO" styleType="secondary" onClick={() => { window.location.href = "/novo-video" }} />
       </div>
     </header>
   )
