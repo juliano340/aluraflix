@@ -1,6 +1,8 @@
 // src/components/VideoCard.jsx
 import React, { useState } from 'react';
 import EditVideoModal from '../EditVideoModal';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faTrash, faEdit } from '@fortawesome/free-solid-svg-icons';
 import styles from './VideoCard.module.css';
 
 const VideoCard = ({ video, onDelete, onSave }) => {
@@ -10,8 +12,12 @@ const VideoCard = ({ video, onDelete, onSave }) => {
     <div className={styles.card}>
       <img src={video.image} alt={video.title} className={styles.thumbnail} />
       <div className={styles.actions}>
-        <button className={styles.deleteButton} onClick={() => onDelete(video.id)}>DELETAR</button>
-        <button className={styles.editButton} onClick={() => setIsEditModalOpen(true)}>EDITAR</button>
+        <button className={styles.deleteButton} onClick={() => onDelete(video.id)}>
+          <FontAwesomeIcon icon={faTrash} /> DELETAR
+        </button>
+        <button className={styles.editButton} onClick={() => setIsEditModalOpen(true)}>
+          <FontAwesomeIcon icon={faEdit} /> EDITAR
+        </button>
       </div>
       <EditVideoModal 
         isOpen={isEditModalOpen} 

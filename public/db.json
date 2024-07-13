@@ -7,6 +7,14 @@
       "image": "https://i.ytimg.com/vi/H8iwEv1LrNk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEi4jHdcxXirkE1BybHPFlVIxhpg",
       "video": "https://www.youtube.com/watch?v=H8iwEv1LrNk&ab_channel=HealingFrequencyforSoul",
       "description": "Minha descrição teste 2"
+    },
+    {
+      "id": "631e",
+      "title": "Como testar seu front end",
+      "category": "Frontend",
+      "image": "https://i.ytimg.com/vi/CaTbfdsVydE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR3yiXpoQbLbDzj7OQTCDsf4D0PA",
+      "video": "https://www.youtube.com/watch?v=CaTbfdsVydE&ab_channel=Alura",
+      "description": "Como testar seu Front End."
     }
   ]
 }
