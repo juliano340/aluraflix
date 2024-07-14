@@ -25,14 +25,6 @@
       "description": "Teste"
     },
     {
-      "id": "3ef9",
-      "title": "assadas",
-      "category": "Frontend",
-      "image": "https://i.ytimg.com/vi/vDicGd85Bm8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtiYhamU1xZPgGMaILjGZruqrgAw",
-      "video": "https://www.youtube.com/watch?v=vDicGd85Bm8&ab_channel=Bolt",
-      "description": "asdada"
-    },
-    {
       "id": "6fd6",
       "title": "Back 1",
       "category": "Backend",
@@ -79,6 +71,14 @@
       "image": "https://i.ytimg.com/vi/c8mVlakBESE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhkFUxgkWQ9ytW1xzdF1VlsI-u-A",
       "video": "https://www.youtube.com/watch?v=c8mVlakBESE&ab_channel=MarioSouto-DevSoutinho",
       "description": "teste"
+    },
+    {
+      "id": "531b",
+      "title": "TESTE",
+      "category": "Frontend",
+      "image": "https://i.ytimg.com/vi/G9pYHlW9v40/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMNjJYWzJnX8XlWdqKjcRvjhKOMw",
+      "video": "https://www.youtube.com/watch?v=G9pYHlW9v40&ab_channel=ManualdoDev",
+      "description": "adas"
     }
   ]
 }
