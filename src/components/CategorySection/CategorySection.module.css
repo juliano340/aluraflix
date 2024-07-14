@@ -1,17 +1,38 @@
 /* src/components/CategorySection.module.css */
 .section {
-    margin: 20px 0;
-  }
-  
-  .title {
-    font-size: 24px;
-    color: white;
-    margin-bottom: 10px;
-  }
-  
-  .videoList {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-  }
-  
+  margin: 20px 0;
+}
+
+.title {
+  font-size: 24px;
+  color: white;
+  margin-bottom: 10px;
+  width: 200px;
+  text-align: center;
+  padding: 5px;
+  border-radius: 5px;
+  margin-left: 110px;
+}
+
+.videoList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+/* Adicione cores específicas para cada categoria */
+.title.frontend {
+  background-color: #6BD1FF;
+}
+
+.title.backend {
+  background-color: #FF6B6B;
+}
+
+.title.mobile {
+  background-color: #6BFF95;
+}
+
+.title.inovacao {
+  background-color: #FFA26B;
+}

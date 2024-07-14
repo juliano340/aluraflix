@@ -10,7 +10,9 @@ const VideoCard = ({ video, onDelete, onSave }) => {
 
   return (
     <div className={styles.card}>
-      <img src={video.image} alt={video.title} className={styles.thumbnail} />
+      <a href={video.video} target="_blank" rel="noopener noreferrer">
+        <img src={video.image} alt={video.title} className={styles.thumbnail} />
+      </a>
       <div className={styles.actions}>
         <button className={styles.deleteButton} onClick={() => onDelete(video.id)}>
           <FontAwesomeIcon icon={faTrash} /> DELETAR
