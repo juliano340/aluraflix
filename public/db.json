@@ -33,14 +33,6 @@
       "description": "asdada"
     },
     {
-      "id": "d197",
-      "title": "asdasd",
-      "category": "Frontend",
-      "image": "https://i.ytimg.com/vi/LqXqBgIUbJg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7ADPYoC9f2YTGmfjrfZK7oemFIQ",
-      "video": "https://www.youtube.com/watch?v=LqXqBgIUbJg&ab_channel=AttekitaDev",
-      "description": "Front 3"
-    },
-    {
       "id": "6fd6",
       "title": "Back 1",
       "category": "Backend",
@@ -79,6 +71,14 @@
       "image": "https://i.ytimg.com/vi/6ITm06Etl-M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZdOuMT7ecz5C_ZLWu9zQs0RByMw",
       "video": "https://www.youtube.com/watch?v=6ITm06Etl-M&ab_channel=F%C3%A1bricadeCriatividade",
       "description": "adasd"
+    },
+    {
+      "id": "a8c3",
+      "title": "Pokemon dev",
+      "category": "Frontend",
+      "image": "https://i.ytimg.com/vi/c8mVlakBESE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhkFUxgkWQ9ytW1xzdF1VlsI-u-A",
+      "video": "https://www.youtube.com/watch?v=c8mVlakBESE&ab_channel=MarioSouto-DevSoutinho",
+      "description": "teste"
     }
   ]
 }

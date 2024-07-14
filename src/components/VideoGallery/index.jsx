@@ -22,6 +22,12 @@ const VideoGallery = () => {
   }, []);
 
   const handleDelete = async (id) => {
+
+    const confirmDelete = window.confirm('Tem certeza que deseja deletar o vídeo?');
+    if (!confirmDelete) {
+      return;
+    }
+
     try {
       await axios.delete(`http://localhost:3001/videos/${id}`);
       setVideos(videos.filter(video => video.id !== id));

@@ -1,4 +1,9 @@
-/* Banner.module.css */
+/* src/components/Banner.module.css */
+.bannerLink {
+  text-decoration: none;
+  color: inherit;
+}
+
 .bannerContainer {
   position: relative;
   width: 100%;
