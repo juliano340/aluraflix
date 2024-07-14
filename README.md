@@ -58,7 +58,7 @@ npm run dev
 
 Este projeto utiliza a técnica de CSS Modules, onde estilos são definidos em arquivos com a extensão `.module.css` e são escopados localmente ao componente. Isso significa que os estilos são aplicados apenas ao componente ao qual pertencem, evitando conflitos de estilo.
 
-Contribuição
+## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 
