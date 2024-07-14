@@ -32,7 +32,7 @@ const EditVideoModal = ({ isOpen, onClose, video, onSave }) => {
     <div className={styles.modalOverlay}>
       <div className={styles.modal}>
         <button className={styles.closeButton} onClick={onClose}>X</button>
-        <h2>Editar Card</h2>
+        <h2>EDITAR CARD</h2>
         <form className={styles.form} onSubmit={handleSubmit}>
           <div className={styles.formGroup}>
             <label htmlFor="title">Título</label>
@@ -87,7 +87,7 @@ const EditVideoModal = ({ isOpen, onClose, video, onSave }) => {
             ></textarea>
           </div>
           <div className={styles.buttonGroup}>
-            <button type="submit" className={styles.submitButton}>SALVAR</button>
+            <button type="submit" className={styles.submitButton}>GUARDAR</button>
             <button type="button" className={styles.clearButton} onClick={() => {
               setTitle('');
               setCategory('');
