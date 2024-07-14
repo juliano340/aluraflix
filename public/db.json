@@ -4,8 +4,8 @@
       "id": "ca65",
       "title": "TESTE zen",
       "category": "Mobile",
-      "image": "https://i.ytimg.com/vi/H8iwEv1LrNk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEi4jHdcxXirkE1BybHPFlVIxhpg",
-      "video": "https://www.youtube.com/watch?v=H8iwEv1LrNk&ab_channel=HealingFrequencyforSoul",
+      "image": "https://i.ytimg.com/vi/COY5vTa778g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlaxZTpvS3MoHcjeU2k6lXa7H-sg",
+      "video": "https://www.youtube.com/watch?v=COY5vTa778g&ab_channel=AttekitaDev",
       "description": "Minha descrição teste 2"
     },
     {
@@ -15,6 +15,62 @@
       "image": "https://i.ytimg.com/vi/CaTbfdsVydE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR3yiXpoQbLbDzj7OQTCDsf4D0PA",
       "video": "https://www.youtube.com/watch?v=CaTbfdsVydE&ab_channel=Alura",
       "description": "teste\n"
+    },
+    {
+      "id": "0347",
+      "title": "Next Auth",
+      "category": "Backend",
+      "image": "https://i.ytimg.com/vi/RveI1EjXUX0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASzM7B0t03sp4l-6AsmpljYs9W3g",
+      "video": "https://www.youtube.com/watch?v=RveI1EjXUX0&t=4872s&ab_channel=Codante-Evoluanofront-end",
+      "description": "Teste"
+    },
+    {
+      "id": "3ef9",
+      "title": "assadas",
+      "category": "Frontend",
+      "image": "https://i.ytimg.com/vi/vDicGd85Bm8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtiYhamU1xZPgGMaILjGZruqrgAw",
+      "video": "https://www.youtube.com/watch?v=vDicGd85Bm8&ab_channel=Bolt",
+      "description": "asdada"
+    },
+    {
+      "id": "d197",
+      "title": "asdasd",
+      "category": "Frontend",
+      "image": "https://i.ytimg.com/vi/LqXqBgIUbJg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7ADPYoC9f2YTGmfjrfZK7oemFIQ",
+      "video": "https://www.youtube.com/watch?v=LqXqBgIUbJg&ab_channel=AttekitaDev",
+      "description": "Front 3"
+    },
+    {
+      "id": "6fd6",
+      "title": "Back 1",
+      "category": "Backend",
+      "image": "https://i.ytimg.com/vi/TeY7jRDlrgQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQvbxAKQdwqEWnZ4M4WpkNGYt72A",
+      "video": "https://www.youtube.com/watch?v=TeY7jRDlrgQ&ab_channel=GabrielRangel-Fala%2CCoders%21",
+      "description": "another test"
+    },
+    {
+      "id": "c9d2",
+      "title": "Portfolio backend",
+      "category": "Backend",
+      "image": "https://i.ytimg.com/vi/sTUbOGf9V1U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBTfuA3_SNHy-sQfJQ6r-CPy-c2A",
+      "video": "https://www.youtube.com/watch?v=sTUbOGf9V1U&ab_channel=Cod3rCursos",
+      "description": "Video 3"
+    },
+    {
+      "id": "98df",
+      "title": "Android",
+      "category": "Mobile",
+      "image": "https://i.ytimg.com/vi/fWscDFHKgw8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClfate1Dk0AOfvUtxwVtS-xtn7YA",
+      "video": "https://www.youtube.com/watch?v=fWscDFHKgw8&ab_channel=Alura",
+      "description": "Mobile 2"
+    },
+    {
+      "id": "81f4",
+      "title": "App Barber",
+      "category": "Mobile",
+      "image": "https://i.ytimg.com/vi/OSFrZ3yQEII/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuWiR4ZZ4uEjsGVyPr3MfBGojZMg",
+      "video": "https://www.youtube.com/watch?v=OSFrZ3yQEII&ab_channel=StackMobile",
+      "description": "barber app mobile"
     }
   ]
 }
