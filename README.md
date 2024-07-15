@@ -4,8 +4,6 @@
 
 Aluraflix é um projeto inspirado no Netflix, desenvolvido com React e Vite, que apresenta uma seleção de vídeos da Alura. O sistema permite visualizar até 3 vídeos por categoria, além de adicionar, editar e excluir vídeos. Os vídeos podem ser visualizados através de links do YouTube.
 
-Link em produção: https://aluraflix-azure-one.vercel.app/
-
 ## Como Rodar Localmente
 
 Siga os passos abaixo para clonar o repositório, instalar as dependências, iniciar o `json-server` e rodar a aplicação em React localmente.
